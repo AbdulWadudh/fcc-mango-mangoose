@@ -1,2 +1,5 @@
-# fcc-mango-mangoose
-This Repo is Created for Completing the FCC Mongo Mongoose Test
+# MongoDB and Mongoose Challenges
+
+This is the boilerplate for the MongoDB and Mongoose lessons. Instructions for completing these lessons start at https://www.freecodecamp.org/learn/apis-and-microservices/mongodb-and-mongoose/
+
+## This Repo is Created for Completing the FCC Mongo Mongoose Test
